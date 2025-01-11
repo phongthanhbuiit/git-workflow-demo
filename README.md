@@ -1,2 +1,2 @@
 # git-workflow-demo
-demo a best practice git workflow
+This is a best practice git workflow code
