@@ -1,1 +1,1 @@
-console.log('create product model')
+console.log('create product model, fix product')
