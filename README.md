@@ -184,7 +184,7 @@ git checkout -b hotfixes
 ![Leader Pull](/img/13.png)
 
 - Git checkout main and pull
-``bash
+```bash
 git checkout main
 git pull
 ```
