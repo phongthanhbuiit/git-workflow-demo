@@ -20,7 +20,7 @@ git push -u origin develop
 ## 2. Create a feature label on GitHub
 
 - Issues → Choose Label → Edit label
-![Edit Label](/img/2.png)
+![Edit Label](/img/2.jpg)
 
 
 - Create a task feature. Note # 1 (task 1).
